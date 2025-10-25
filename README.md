@@ -1,7 +1,6 @@
 # My-LLM-Project
-assignment repository
+Assignment Repository
 created Oct. 23, 2025
-assignment 1
-It is sunny today!
-My cats are very cute!
-This is commit 5!
+Machine Learning Engineering Program
+Inference.ai
+Zhen Li
